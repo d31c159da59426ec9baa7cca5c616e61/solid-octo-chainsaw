@@ -40,5 +40,15 @@ lookup =
     ["memekus37"] = "2025:05:25", -- User37
     ["memekus38"] = "2025:05:26", -- User38
     ["memekus39"] = "2025:05:27", -- User39
-    ["memekus40"] = "2025:05:28"  -- User40
+    ["memekus40"] = "2025:05:28", -- User40
+    ["memekus41"] = "2025:05:29", -- User41
+    ["memekus42"] = "2025:05:30", -- User42
+    ["memekus43"] = "2025:05:31", -- User43
+    ["memekus44"] = "2025:06:01", -- User44
+    ["memekus45"] = "2025:06:02", -- User45
+    ["memekus46"] = "2025:06:03", -- User46
+    ["memekus47"] = "2025:06:04", -- User47
+    ["memekus48"] = "2025:06:05", -- User48
+    ["memekus49"] = "2025:06:06", -- User49
+    ["memekus50"] = "2025:06:07"  -- User50
 }
