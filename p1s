@@ -1,0 +1,44 @@
+-- Time format (year:month:day)
+lookup = 
+{
+    ["memekus1"] = "2025:04:19",  -- User1
+    ["qjePEEIS1ODPxzk9JOhLTWlx3Klw8JwOry5KRhlJx1wGQAXVrCqBi6ZU4dUdoGu"] = "2025:04:20",  -- Joostillsafe
+    ["FlsWny6I5D4bWjrj6dLqAi333raZ3crJFWRK34Yp5BpqiGa2IZjrIQuK7kX4G"] = "2025:04:21",  -- BrisBrian
+    ["JcuomGoscVOajPtmL52F1PP63hDB8kkUItNno5Lv5bxB0tdjUIWfN3YGoGEFDpc4"] = "2025:04:22",  -- Silifkeli78
+    ["lfIgOm1LNr6fmSRND2f9nuOkn2Amsn3np"] = "2025:04:23",  -- fiikz_21
+    ["dY9H4RpUp8hnNse3ERhOYcinJ673LmBnXx"] = "2025:04:24",  -- Btkgod[1]
+    ["MIZ5CEy2g2OIFd7xAPqoUrmIEpb64lnGVmcq1FH4mgW3b"] = "2025:04:25",  -- Btkgod[2]
+    ["iRNTbBH7UTAowyZkCYHTt3WrVPwdclmk2oh6"] = "2025:04:26",  -- toeyth
+    ["w0oTDgqxSeqKghV8SGGdjFsoHCxISHVnx9qPDvBF6GFy8Sp"] = "2025:04:27",  -- PeeWS
+    ["DFUXqlDs1byHYI3HgzDyV7KjC5A5xRZCrV23HmR1KwCCwTAfPqsOIchEwVgt"] = "2025:04:28", -- Piero0202
+    ["YSbvi6xBngAiHZX2wwoDuCMvPisg5PWQNeuf59n395Lvwt"] = "2025:04:29", -- gfgfgry56[1]
+    ["o67fOkXUSxCR88YaclTBr50xricUYsWVpdoBbghxj2ZmNaKhsqLeULl83E"] = "2025:04:30", -- gfgfgry56[2]
+    ["21caVVh0z22dG1ItZlh1PPjxUm0NbxCZH7OlNUU8TLd1C9ZAvqHxSM7PMrGj"] = "2025:05:01", -- GabrielGomess
+    ["eR9IZnOgH0kegXFdatS23XH0HqkGWyIvMNJitBP5eO7S2S"] = "2025:05:02", -- ajimzjer
+    ["CwTT1T4CmWvVjNkho47a92xU15SbtqvUn6v2sI1"] = "2025:05:03", -- frazercabral
+    ["AFXPWhipfdci6FmnQsoupy5NjaqLev8CAL293FRXvIo2bRBQl9dQApb9d2lJXK"] = "2025:05:04", -- Sum Mer
+    ["FO2mYu6XLSBBEn6gG0ukt3pm6O2e0dIsJc2GlILMHVijvQna"] = "2025:05:05", -- TrCimbomm
+    ["3psDLR7xyJrRydHhqLgH2QxgMHKowqa4GiuljHHH"] = "2025:05:06", -- Carlos Esteve
+    ["tE4D0sfIN6UM65b2LkYi1wnRsCCoVr2VI1m"] = "2025:05:07", -- @ajimzjer
+    ["URQ0uuHwTY5QC36yAEk8qf00NXyA54XM7qEDiKNR"] = "2025:05:08", -- @JonaAndrade
+    ["hpPj8iVGfaPKViPSgCWOM1xKOi7RGWIz"] = "2025:05:09", -- Furkan
+    ["7jKXBFUMtxI1KEQSkeQHiRl1SCAU5fAzNqY7iLg"] = "2025:05:10", -- Guru
+    ["memekus23"] = "2025:05:11", -- User23
+    ["memekus24"] = "2025:05:12", -- User24
+    ["memekus25"] = "2025:05:13", -- User25
+    ["memekus26"] = "2025:05:14", -- User26
+    ["memekus27"] = "2025:05:15", -- User27
+    ["memekus28"] = "2025:05:16", -- User28
+    ["memekus29"] = "2025:05:17", -- User29
+    ["memekus30"] = "2025:05:18", -- User30
+    ["memekus31"] = "2025:05:19", -- User31
+    ["memekus32"] = "2025:05:20", -- User32
+    ["memekus33"] = "2025:05:21", -- User33
+    ["memekus34"] = "2025:05:22", -- User34
+    ["memekus35"] = "2025:05:23", -- User35
+    ["memekus36"] = "2025:05:24", -- User36
+    ["memekus37"] = "2025:05:25", -- User37
+    ["memekus38"] = "2025:05:26", -- User38
+    ["memekus39"] = "2025:05:27", -- User39
+    ["memekus40"] = "2025:05:28"  -- User40
+}
